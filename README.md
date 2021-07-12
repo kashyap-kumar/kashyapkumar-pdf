@@ -4,7 +4,7 @@
 > 🙋🏻‍♂️ I’m currently working on **eCommerce Website**
 <br>
 
-> ✌️ I’m currently learning **REACT JS & C Programming**
+> ✌️ I’m currently learning **REACT JS & Advanced C Programming**
 <br>
 
 > 💬 Ask me anything
