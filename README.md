@@ -51,10 +51,10 @@
 <hr style="color: #06d6a0">
 </div>
 
-> 🙋🏻‍♂️ I’m currently working on **eCommerce Website**
+> 🙋🏻‍♂️ I’m currently working on **No Project**
 <br>
 
-> ✌️ I’m currently learning **REACT JS & Advanced C Programming**
+> ✌️ I’m currently learning **DSA, DBS & SE**
 <br>
 
 > 💬 Ask me anything
