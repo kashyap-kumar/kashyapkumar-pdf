@@ -70,5 +70,7 @@
 </p>
 <p align='center'>
   <img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapkumar-pdf&theme=radical&bg_color=16181d" alt="Kashyap Kumar Github Stats" />
+</p>
+<p align='center'>
+  <img width="450px" style="border-style:solid" src="https://github-profile-trophy.vercel.app/?username=kashyapkumar-pdf&theme=dracula&column=4&no-frame=true" alt="Kashyap Kumar Github Stats" />
 </p> 
-
