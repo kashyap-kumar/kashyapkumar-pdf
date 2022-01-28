@@ -1,36 +1,30 @@
 <h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there;Nice+seeing+you+in+my+profile!;Myself+Kashyap+Kumar+😉;From+Assam,+India&center=true&size=20">
-  </a>
+  Hi There! I'm fixing bugs
 </h1>
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/UQDSBzfyiBKvgFcSTw/200w.webp?cid=ecf05e47w621yq200j8rrdrgeing4vqvtvd6x6titbp7tmn8&rid=200w.webp&ct=g">
+</div>
 
 <p align="center">
   <a href="https://www.instagram.com/codingomega/" alt="Instgram Follow">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-ef2b42?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="http://kashyapkumar.netlify.app/" alt="Website">
-    <img src="https://img.shields.io/website?label=KashyapKumar&style=for-the-badge&url=https%3A%2F%2Fcodingomega.netlify.app%2F"/></a>
+    <img src="https://img.shields.io/badge/website-059862?style=for-the-badge&logoColor=white"/>
   <a href="https://www.linkedin.com/in/kashyapkumar/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-1b5be5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </a>
   <a href="https://www.youtube.com/c/codingomega/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/youtube-fb3536.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
   </a>
 </p>
 
 <br>
 
-<p align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=kashyapkumar-pdf&theme=dracula&bg_color=16181d&color=059862&line=0066ff&point=e9eaef&area=true&area_color=0066ff77&hide_border=true">
-</p>
-
-<br>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kashyapkumar-pdf/count.svg" />
-</p>
+<h3 align="center">
+  I'm Kashyap and I welcome you in my profile! I'm a 2nd year BCA student from Assam, India. I am someone with next level patience and never giving up attitude.
+</h3>
 
 
 <div align="center">
@@ -61,6 +55,17 @@
 <br>
 
 <hr>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=kashyapkumar-pdf&theme=dracula&bg_color=16181d&color=059862&line=0066ff&point=e9eaef&area=true&area_color=0066ff77&hide_border=true">
+</p>
+
+<br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kashyapkumar-pdf/count.svg" />
+</p>
 
 <p align="center">
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=kashyapkumar-pdf&&show_icons=true&title_color=ff6600&icon_color=bb2acf&text_color=06d6a0&bg_color=16181d">
