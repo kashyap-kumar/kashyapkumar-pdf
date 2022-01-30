@@ -23,7 +23,7 @@
 <br>
 
 <h3 align="center">
-  I'm Kashyap and I welcome you in my profile! I'm a 2nd year BCA student from Assam, India. I am someone with next level patience and never giving up attitude.
+  I'm Kashyap and I welcome you to my profile! I'm a 2nd year BCA student from Assam, India. I am someone with next level patience and never giving up attitude.
 </h3>
 
 
