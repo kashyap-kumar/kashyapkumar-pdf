@@ -23,27 +23,43 @@
 <br>
 
 <h3 align="center">
-  I'm Kashyap and I welcome you to my profile! I'm a 2nd year BCA student from Assam, India. I am someone with next level patience and never giving up attitude.
+  I'm Kashyap and I welcome you to my profile! I'm interested in Full Stack Development.
 </h3>
 
+<h2 align="center">Technologies/Tools</h2>
 
-<div align="center">
-<h2>Technologies/Tools</h2>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/><img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"/>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"/>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"/>
-<img width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+```sql
+CREATE TABLE `Technologies` (
+    `Serial_no` INT,
+    `Name` varchar(50)
+);
+INSERT INTO `Technologies`
+VALUES 
+    (1, 'HTML'),
+    (2, 'CSS'),
+    (3, 'JavaScript'),
+    (4, 'ReactJS'),
+    (5, 'NodeJS'),
+    (6, 'PHP'),
+    (7, 'Tailwind CSS'),
+    (8, 'SQL'),
+    (9, 'C'),
+    (10, 'C++');
+
+CREATE TABLE `Tools` (
+    `Serial_no` INT,
+    `Name` varchar(50)
+);
+INSERT INTO `Tools`
+VALUES 
+    (1, 'MySQL'),
+    (2, 'VS Code'),
+    (3, 'Apache'),
+    (4, 'Code Blocks'),
+    (5, 'Git');
+```
+
 <hr style="color: #06d6a0">
-</div>
 
 > 🙋🏻‍♂️ I’m currently working on **No Project**
 <br>
