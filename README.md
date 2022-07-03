@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi There! I'm fixing bugs
+  Hi there! I'm fixing bugs
 </h1>
 
 <div align="center">
@@ -41,7 +41,7 @@ VALUES
     (4, 'ReactJS'),
     (5, 'NodeJS'),
     (6, 'PHP'),
-    (7, 'Tailwind CSS'),
+    (7, 'Bootstrap'),
     (8, 'SQL'),
     (9, 'C'),
     (10, 'C++');
@@ -54,17 +54,16 @@ INSERT INTO `Tools`
 VALUES 
     (1, 'MySQL'),
     (2, 'VS Code'),
-    (3, 'Apache'),
-    (4, 'Code Blocks'),
-    (5, 'Git');
+    (3, 'Wordpress'),
+    (4, 'Git');
 ```
 
 <hr style="color: #06d6a0">
 
-> 🙋🏻‍♂️ I’m currently working on **No Project**
+> 🙋🏻‍♂️ I’m currently working on **Glocery Web App**
 <br>
 
-> ✌️ I’m currently learning **DSA, DBS & SE**
+> ✌️ I’m currently learning **DSA, OOP and Web Technologies**
 <br>
 
 > 💬 Ask me anything
@@ -73,25 +72,32 @@ VALUES
 <hr>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kashyapkumar-pdf&theme=dracula&bg_color=16181d&color=059862&line=0066ff&point=e9eaef&area=true&area_color=0066ff77&hide_border=true">
+  <img src="https://activity-graph.herokuapp.com/graph?username=kashyapkumar-pdf&theme=nord&bg_color=2e3440&color=2ef2a7&line=2ef2a7&point=efefef&area=true&area_color=2ef2a7">
 </p>
 
 <br>
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/kashyapkumar-pdf/count.svg" />
 </p>
 
-<p align="center">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=kashyapkumar-pdf&&show_icons=true&title_color=ff6600&icon_color=bb2acf&text_color=06d6a0&bg_color=16181d">
-</p>
-<p align='center'>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapkumar-pdf&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8&bg_color=16181d">
-</p>
-<p align='center'>
-  <img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapkumar-pdf&theme=radical&bg_color=16181d" alt="Kashyap Kumar Github Stats" />
-</p>
-<p align='center'>
-  <img width="450px" style="border-style:solid" src="https://github-profile-trophy.vercel.app/?username=kashyapkumar-pdf&theme=dracula&column=4&no-frame=true" alt="Kashyap Kumar Github Stats" />
-</p> 
+<div align="center">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=kashyapkumar-pdf&&show_icons=true&title_color=2ef2a7&icon_color=2ef2a7&text_color=efefef&bg_color=2E3440&hide_border=true">
+  <img width="450px" src="https://leetcode.card.workers.dev/KashyapKumar?theme=nord&font=baloo">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapkumar-pdf&theme=nord&hide=jupyter%20notebook&layout=compact&langs_count=8&bg_color=2E3440&title_color=2ef2a7&hide_border=true">
+  <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapkumar-pdf&theme=nord&hide_border=true" alt="Kashyap Kumar Github Stats" />
+  <img width="450px" src="https://github-profile-trophy.vercel.app/?username=kashyapkumar-pdf&theme=nord&column=4&no-frame=true&hide_border=true" alt="Kashyap Kumar Github Stats" />
+</div> 
+
+<hr>
+
+<h3 align="center">Top 4 Projects</h3>
+<div align="center">
+  <a href="https://github.com/kashyapkumar-pdf/Bookmark-application">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashyapkumar-pdf&repo=Bookmark-application" />
+  </a>
+  <a href="https://github.com/kashyapkumar-pdf/Comment-System">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashyapkumar-pdf&repo=Comment-System" />
+  </a>
+</div>
