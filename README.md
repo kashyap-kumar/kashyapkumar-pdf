@@ -100,4 +100,7 @@ VALUES
   <a href="https://github.com/kashyapkumar-pdf/Comment-System">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashyapkumar-pdf&repo=Comment-System" />
   </a>
+  <a href="https://github.com/kashyapkumar-pdf/StocksStore">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashyapkumar-pdf&repo=StocksStore" />
+  </a>
 </div>
