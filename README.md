@@ -60,13 +60,13 @@ VALUES
 
 <hr style="color: #06d6a0">
 
-> 🙋🏻‍♂️ I’m currently working on **Glocery Web App**
+> 🙋🏻‍♂️ **I Believe Skills and Degree are Equally Important**
 <br>
 
-> ✌️ I’m currently learning **DSA, OOP and Web Technologies**
+> ✌️ **Improving My DSA and Development Skills**
 <br>
 
-> 💬 Ask me anything
+> 💬 **A True Coder Hunting for New Opportunities**
 <br>
 
 <hr>
@@ -87,15 +87,17 @@ VALUES
   <img width="450px" src="https://leetcode.card.workers.dev/KashyapKumar?theme=nord&font=baloo">
   <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapkumar-pdf&theme=nord&hide=jupyter%20notebook&layout=compact&langs_count=8&bg_color=2E3440&title_color=2ef2a7&hide_border=true">
   <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapkumar-pdf&theme=nord&hide_border=true" alt="Kashyap Kumar Github Stats" />
-  <img width="450px" src="https://github-profile-trophy.vercel.app/?username=kashyapkumar-pdf&theme=nord&column=4&no-frame=true&hide_border=true" alt="Kashyap Kumar Github Stats" />
 </div> 
 
 <hr>
 
 <h3 align="center">Top 4 Projects</h3>
 <div align="center">
-  <a href="https://github.com/kashyapkumar-pdf/Bookmark-application">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashyapkumar-pdf&repo=Bookmark-application" />
+  <a href="https://github.com/kashyapkumar-pdf/Bookmarker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashyapkumar-pdf&repo=Bookmarker" />
+  </a>
+  <a href="https://github.com/kashyapkumar-pdf/EasyParking">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashyapkumar-pdf&repo=EasyParking" />
   </a>
   <a href="https://github.com/kashyapkumar-pdf/Comment-System">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashyapkumar-pdf&repo=Comment-System" />
