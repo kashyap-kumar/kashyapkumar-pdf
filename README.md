@@ -1,17 +1,17 @@
 <h1 align="center">
-  Hi there! I'm fixing bugs
+  अतिथिदेवो भव:
 </h1>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/UQDSBzfyiBKvgFcSTw/200w.webp?cid=ecf05e47w621yq200j8rrdrgeing4vqvtvd6x6titbp7tmn8&rid=200w.webp&ct=g">
+  <img src="https://media.giphy.com/media/nNKHksPjJDSeV3CUqm/giphy.gif">
 </div>
 
 <p align="center">
   <a href="https://www.instagram.com/codingomega/" alt="Instgram Follow">
     <img src="https://img.shields.io/badge/Instagram-ef2b42?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="http://kashyapkumar.netlify.app/" alt="Website">
-    <img src="https://img.shields.io/badge/website-059862?style=for-the-badge&logoColor=white"/>
+  <a href="http://kashyapkumar.netlify.app/" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-059862?style=for-the-badge&logoColor=white"/>
   <a href="https://www.linkedin.com/in/kashyapkumar/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-1b5be5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </a>
@@ -23,7 +23,7 @@
 <br>
 
 <h3 align="center">
-  I'm Kashyap and I welcome you to my profile! I'm interested in Full Stack Development.
+  Myself Kashyap, Looking For Opportunities
 </h3>
 
 <h2 align="center">Technologies/Tools</h2>
@@ -43,8 +43,8 @@ VALUES
     (6, 'PHP'),
     (7, 'Bootstrap'),
     (8, 'SQL'),
-    (9, 'C'),
-    (10, 'C++');
+    (9, 'C++'),
+    (10, 'Java');
 
 CREATE TABLE `Tools` (
     `Serial_no` INT,
@@ -55,7 +55,8 @@ VALUES
     (1, 'MySQL'),
     (2, 'VS Code'),
     (3, 'Wordpress'),
-    (4, 'Git');
+    (4, 'Git'),
+    (5, 'Figma');
 ```
 
 <hr style="color: #06d6a0">
@@ -71,13 +72,9 @@ VALUES
 
 <hr>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kashyapkumar-pdf&theme=nord&bg_color=2e3440&color=2ef2a7&line=2ef2a7&point=efefef&area=true&area_color=2ef2a7">
-</p>
-
 <br>
 
-<p align="center"> 
+<p align="center">
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/kashyapkumar-pdf/count.svg" />
 </p>
@@ -87,7 +84,7 @@ VALUES
   <img width="450px" src="https://leetcode.card.workers.dev/KashyapKumar?theme=nord&font=baloo">
   <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyapkumar-pdf&theme=nord&hide=jupyter%20notebook&layout=compact&langs_count=8&bg_color=2E3440&title_color=2ef2a7&hide_border=true">
   <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapkumar-pdf&theme=nord&hide_border=true" alt="Kashyap Kumar Github Stats" />
-</div> 
+</div>
 
 <hr>
 

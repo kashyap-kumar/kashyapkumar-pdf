@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets/icon.png" type="image/png">
+    <link rel="stylesheet" href="style.css">
+    <title>Kashyap Kumar</title>
+</head>
+
+<body>
+    <h1 class="heading">Kashyap Kumar</h1>
+    <p class="message">Tip: click anywhere to see description</p>
+    <div class="project-card-container">
+        <div class="project-card">
+            <ul class="project-screenshots slider">
+                <li class="slider-item"><img src="assets/NeuCare/image1.png"></li>
+                <li class="slider-item"><img src="assets/NeuCare/image2.png"></li>
+                <li class="slider-item"><img src="assets/NeuCare/image3.png"></li>
+                <li class="slider-item"><img src="assets/NeuCare/image4.png"></li>
+            </ul>
+            <div class="project-card-body">
+                <ul class="project-technologies">
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>PHP</li>
+                    <li>MySQL</li>
+                    <li>AJAX</li>
+                    <li>Bootstrap</li>
+                    <li>Other libraries</li>
+                </ul>
+                <h3 class="project-title">NeuCare</h3>
+                <p class="project-subtitle">Healthcare Web Application</p>
+                <p class="project-description">
+                    A full-fledged web-based healthcare application that provides a platform for patients
+                    and doctors to connect and manage appointments. It offers a user-friendly interface with a minimalistic design.
+                    NeuCare provides separate admin panels for managing the application, clinics and
+                    doctors.
+                </p>
+                <div class="project-link">
+                    <a href="https://github.com/kashyapkumar-pdf/NeuCare" target="_blank">Code</a>
+                </div>
+            </div>
+        </div>
+        <div class="project-card">
+            <ul class="project-screenshots slider">
+                <li class="slider-item"><img src="assets/Bookmarker/image1.png"></li>
+                <li class="slider-item"><img src="assets/Bookmarker/image2.png"></li>
+            </ul>
+            <div class="project-card-body">
+                <ul class="project-technologies">
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                </ul>
+                <h3 class="project-title">Bookmarker</h3>
+                <p class="project-subtitle">Frontend Bookmarking Website</p>
+                <p class="project-description">
+                    A local storage based bookmark application for frequently used links such
+                    as college/university website, helpful tools etc. This was developed specially for personal use but
+                    with a number of changes over time, it's pretty good now. You can add, edit and delete bookmarks.
+                </p>
+                <div class="project-link">
+                    <a href="https://github.com/kashyapkumar-pdf/Bookmarker" target="_blank">Code</a>
+                    <a href="https://kashyapkumar-pdf.github.io/Bookmarker/" target="_blank">Live</a>
+                </div>
+            </div>
+        </div>
+        <div class="project-card">
+            <ul class="project-screenshots slider">
+                <li class="slider-item"><img src="assets/EasyParking/image1.png"></li>
+            </ul>
+            <div class="project-card-body">
+                <ul class="project-technologies">
+                    <li>React</li>
+                </ul>
+                <h3 class="project-title">EasyParking</h3>
+                <p class="project-subtitle">Parking Lot Manager</p>
+                <p class="project-description">
+                    A simple React app for managing parking lot. It has a form to add new vehicle to the lot. 
+                    New vehicles are shown there and we can check them out.
+                </p>
+                <div class="project-link">
+                    <a href="https://github.com/kashyapkumar-pdf/EasyParking" target="_blank">Code</a>
+                </div>
+            </div>
+        </div>
+        <div class="project-card">
+            <ul class="project-screenshots slider">
+                <li class="slider-item"><img src="assets/StocksStore/image1.png"></li>
+                <li class="slider-item"><img src="assets/StocksStore/image2.png"></li>
+                <li class="slider-item"><img src="assets/StocksStore/image3.png"></li>
+            </ul>
+            <div class="project-card-body">
+                <ul class="project-technologies">
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>PHP</li>
+                    <li>MySQL</li>
+                </ul>
+                <h3 class="project-title">StocksStore</h3>
+                <p class="project-subtitle">Personal Stock Portfolio Tracker</p>
+                <p class="project-description">
+                    A simple stock portfolio tracker webapp to track all the stocks from different apps in one place. 
+                    AlphaVantage API is used for stock data. The app is customised to eliminate the limitation of the API. 
+                    Cool looking UI is implemented and colorful CLI script is used for managing database.
+                </p>
+                <div class="project-link">
+                    <a href="https://github.com/kashyapkumar-pdf/StocksStore" target="_blank">Code</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        Last updated on Feb, 2023
+    </footer>
+    <script>
+        // courosel
+        const sliderify = (elSlider) => {
+            const elsItems = elSlider.children;
+            let itv = null;
+            let i = 0;
+
+            const anim = () => {
+                elsItems[i].classList.remove("is-active");
+                i += 1;
+                i %= elsItems.length;
+                elsItems[i].classList.add("is-active");
+            };
+
+            const play = () => itv = setInterval(anim, 3000);
+            const stop = () => clearInterval(itv);
+
+            elSlider.addEventListener("pointerenter", stop);
+            elSlider.addEventListener("pointerleave", play);
+
+            // Init:
+            anim(); // Show first items
+            play(); // Loop!
+
+        };
+
+        document.querySelectorAll(".slider").forEach(sliderify);
+
+    </script>
+</body>
+
+</html>
