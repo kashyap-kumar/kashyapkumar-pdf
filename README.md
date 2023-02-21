@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/codingomega/" alt="Instgram Follow">
     <img src="https://img.shields.io/badge/Instagram-ef2b42?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="http://kashyapkumar.netlify.app/" alt="Portfolio">
+  <a href="http://algokashyap.netlify.app/" alt="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-059862?style=for-the-badge&logoColor=white"/>
   <a href="https://www.linkedin.com/in/kashyapkumar/" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-1b5be5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -22,9 +22,9 @@
 
 <br>
 
-<h3 align="center">
-  Myself Kashyap, Looking For Opportunities
-</h3>
+<h1 align="center">
+  Hi There! I'm Kashyap
+</h1>
 
 <h2 align="center">Technologies/Tools</h2>
 
@@ -56,7 +56,8 @@ VALUES
     (2, 'VS Code'),
     (3, 'Wordpress'),
     (4, 'Git'),
-    (5, 'Figma');
+    (5, 'Figma'),
+    (6, 'Firebase');
 ```
 
 <hr style="color: #06d6a0">
@@ -88,7 +89,7 @@ VALUES
 
 <hr>
 
-<h3 align="center">Top 4 Projects</h3>
+<!-- <h3 align="center">Top 4 Projects</h3>
 <div align="center">
   <a href="https://github.com/kashyapkumar-pdf/Bookmarker">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashyapkumar-pdf&repo=Bookmarker" />
@@ -102,4 +103,4 @@ VALUES
   <a href="https://github.com/kashyapkumar-pdf/StocksStore">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kashyapkumar-pdf&repo=StocksStore" />
   </a>
-</div>
+</div> -->
